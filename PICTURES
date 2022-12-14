@@ -3,7 +3,7 @@
 <head>
   <style>
     body{
-        background-color: #a4caf8; color: rgb(250, 248, 250);
+        background-color: red; color: rgb(250, 248, 250);
     }
     a {color: rgb(250, 248, 250);} 
     </style>
